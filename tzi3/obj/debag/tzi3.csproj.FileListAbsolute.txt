@@ -1,0 +1,8 @@
+c:\users\админ\documents\visual studio 2015\Projects\tzi3\tzi3\bin\Debug\tzi3.exe
+c:\users\админ\documents\visual studio 2015\Projects\tzi3\tzi3\bin\Debug\tzi3.pdb
+c:\users\админ\documents\visual studio 2015\Projects\tzi3\tzi3\obj\Debug\tzi3.csprojResolveAssemblyReference.cache
+c:\users\админ\documents\visual studio 2015\Projects\tzi3\tzi3\obj\Debug\tzi3.Form1.resources
+c:\users\админ\documents\visual studio 2015\Projects\tzi3\tzi3\obj\Debug\tzi3.Properties.Resources.resources
+c:\users\админ\documents\visual studio 2015\Projects\tzi3\tzi3\obj\Debug\tzi3.csproj.GenerateResource.Cache
+c:\users\админ\documents\visual studio 2015\Projects\tzi3\tzi3\obj\Debug\tzi3.exe
+c:\users\админ\documents\visual studio 2015\Projects\tzi3\tzi3\obj\Debug\tzi3.pdb
